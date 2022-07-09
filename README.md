@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/python-3.10.1-green?style=for-the-badge&logo=appveyor" alt="Python Version">
 <img src="https://img.shields.io/badge/Telethon-1.24.0-yellow?style=for-the-badge&logo=appveyor" alt="Telethon Version">
 <img src="https://img.shields.io/badge/Pyrogram-1.4.1-red?style=for-the-badge&logo=appveyor" alt="Pyrogram Version">
-<a href="https://github.com/RimuruDemonlord/AsukaRobot"> <img src="https://img.shields.io/github.com/repo-size/RimuruDemonlord/AsukaRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/RimuruDemonlord/AsukaRobot"> <img src="https://img.shields.io/github/repo-size/RimuruDemonlord/AsukaRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 ##  ╒═══「 Status 」
 
