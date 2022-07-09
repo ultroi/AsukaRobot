@@ -13,7 +13,6 @@ from telethon.sessions import StringSession
 from telethon import TelegramClient
 from aiohttp import ClientSession
 from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
-from AsukaRobot import PM_START_TEXT
 
 StartTime = time.time()
 
@@ -276,9 +275,3 @@ except BaseException:
 finally:
 
    REDIS.ping()
-
-if "@AsukaRobot" not in PM_START_TEXT:
-    LOGGER.critical(f"{OWNER_ID} Is Cheating. Add `Thanks To @AsukaRobot For Repo` In PM_START_TEXT To Fix This")
-    sys.exit(1)
-else:
-    LOGGER.info("Your Bot Is Ready")
