@@ -35,13 +35,13 @@
          "value": ""
       },    
       "SQLALCHEMY_DATABASE_URI": {
-         "description": "Your postgres sql db, empty this field if you dont have one.",
-         "required": false,
+         "description": "Your postgres sql db.",
+         "required": true,
          "value": ""
       },  
       "DATABASE_URL": {
-         "description": "Your postgres sql db, empty this field if you dont have one.",
-         "required": false,
+         "description": "Your postgres sql db.",
+         "required": true,
          "value": ""
       },  
       "OWNER_ID": {
@@ -103,7 +103,7 @@
          "value": "True"
       },
       "MONGO_DB_URI": {
-         "description": "A space separated list of user IDs who you want to assign as sudo users.",
+         "description": "Your Mongo DB url.",
          "required": false,
          "value": ""
       },
