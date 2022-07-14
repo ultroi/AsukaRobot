@@ -4,7 +4,7 @@ from datetime import datetime as dt
 from random import choice
 from shutil import rmtree
 from AsukaRobot import quotly
-from AsukaRobot.services.quotehelper import eor
+from AsukaRobot.modules.helper_funcs.quotehelper import eor
 from AsukaRobot.events import register  
 
 @register(pattern="^/q(?: |$)(.*)")
